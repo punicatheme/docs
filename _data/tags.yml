@@ -1,5 +1,7 @@
 allowed-tags:
   - getting_started
+  - installation
+  - requirements
   - content_types
   - navigation
   - formatting

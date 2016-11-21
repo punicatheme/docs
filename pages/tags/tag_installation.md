@@ -1,8 +1,8 @@
 ---
-title: "News"
-tagName: news
+title: "Installation pages"
+tagName: installation
 search: exclude
-permalink: tag_news.html
+permalink: tag_installation.html
 sidebar: doc_sidebar
 folder: tags
 ---

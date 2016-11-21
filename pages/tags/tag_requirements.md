@@ -1,8 +1,8 @@
 ---
-title: "News"
-tagName: news
+title: "Requirements pages"
+tagName: requirements
 search: exclude
-permalink: tag_news.html
+permalink: tag_requirements.html
 sidebar: doc_sidebar
 folder: tags
 ---
