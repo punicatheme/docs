@@ -38,3 +38,6 @@ entries:
     - title: Mega Menu
       url: /avex_mega_menu.html
       output: web
+    - title: Visual Composer
+      url: /avex_visual_composer.html
+      output: web

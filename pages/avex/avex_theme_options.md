@@ -3,13 +3,15 @@ title: Avex Theme Options
 keywords: documentation theme, jekyll, technical writers, help authoring tools, hat replacements
 last_updated: November 21, 2016
 summary: "Theme Options – The Customizer"
-tags: [getting_started]
+tags: [getting_started, installation]
 sidebar: avex_sidebar
 permalink: avex_theme_options.html
 folder: avex
 ---
 
 The Customizer is a framework for live-previewing any change to WordPress. It provides a simple and consistent interface for users to customize various aspects of their theme and their site, from colors and layouts to widgets, menus, and more. Themes and plugins alike can add custom options to the Customizer. The Customizer is the canonical way to add options to your theme.
+
+<img src="{{ "images/avex/customize.png" }}" alt="customize"/>
 
 ## Logo, Site Icon
 
@@ -20,6 +22,8 @@ Appearance -> Customize -> Site Identity
 ### Colors
 
 Appearance -> Customize -> Styles -> Colors
+
+<img src="{{ "images/avex/customize-colors.png" }}" alt="customize"/>
 
 ### Fonts
 
