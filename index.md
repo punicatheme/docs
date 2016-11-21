@@ -13,10 +13,6 @@ Select one of the links below to find your product documentation:
 
 ## Themes
 
-<ul>
-{% for theme in site.data.list.themes %}
-<li><a href="{{theme.url}}">{{theme.title}}</a></li>
-{% endfor %}
-</ul>
+* [Avex][avex_getting_started]
 
 {% include links.html %}
