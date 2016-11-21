@@ -1,19 +1,22 @@
 ---
-title: Getting started with the Documentations
+title: Getting started
 keywords: sample homepage
 tags: [getting_started]
 sidebar: doc_sidebar
 permalink: index.html
-summary: These brief instructions will help you get started quickly with the documentations.
+summary: These brief instructions of this site.
 ---
 
-## Build the Theme
+Welcome to Punicatheme Documentations! This page will help you use the documentations.
 
-Follow these instructions to build the theme.
+Select one of the links below to find your product documentation:
 
-### 1. Download the theme
+## Themes
 
-First download or clone the theme from the [Github repo](https://github.com/tomjohnson1492/documentation-theme-jekyll). Most likely you won't be pulling in updates once you start customizing the theme, so downloading the theme (instead of cloning it) probably makes the most sense. In Github, click the **Clone or download** button, and then click **Download ZIP**.
-
+<ul>
+{% for theme in site.data.list.themes %}
+<li><a href="{{theme.url}}">{{theme.title}}</a></li>
+{% endfor %}
+</ul>
 
 {% include links.html %}
