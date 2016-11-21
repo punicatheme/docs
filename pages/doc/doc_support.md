@@ -2,7 +2,7 @@
 title: Support
 tags: [getting_started, troubleshooting]
 keywords: questions, troubleshooting, contact, support
-last_updated: July 3, 2016
+last_updated: November 21, 2016
 summary: "Contact us for any support issues."
 sidebar: doc_sidebar
 permalink: doc_support.html
