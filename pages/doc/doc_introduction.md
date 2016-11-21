@@ -2,7 +2,7 @@
 title: Introduction
 sidebar: doc_sidebar
 permalink: doc_introduction.html
-folder: mydoc
+folder: doc
 ---
 
 ## Overview
