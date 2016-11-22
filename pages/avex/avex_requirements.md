@@ -22,6 +22,8 @@ folder: avex
 ### Recommended plugins
 
 * [WooCommerce](https://wordpress.org/plugins/woocommerce){:target="_blank"}
+* [YITH WooCommerce Compare](https://wordpress.org/plugins/yith-woocommerce-compare/){:target="_blank"}
+* [YITH WooCommerce Wishlist](https://wordpress.org/plugins/yith-woocommerce-wishlist/){:target="_blank"}
 * [Jetpack by WordPress.com](https://wordpress.org/plugins/jetpack){:target="_blank"}
 * [Contact Form 7](https://wordpress.org/plugins/contact-form-7){:target="_blank"}
 * [Mailchimp for WordPress](https://wordpress.org/plugins/mailchimp-for-wp){:target="_blank"}

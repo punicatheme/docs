@@ -35,6 +35,9 @@ entries:
     - title: Theme Options
       url: /avex_theme_options.html
       output: web
+    - title: Sidebar Generator
+      url: /avex_sidebar_generator.html
+      output: web
     - title: Mega Menu
       url: /avex_mega_menu.html
       output: web
