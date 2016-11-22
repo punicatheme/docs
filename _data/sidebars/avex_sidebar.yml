@@ -44,3 +44,6 @@ entries:
     - title: Visual Composer
       url: /avex_visual_composer.html
       output: web, pdf
+    - title: PDF Download
+      url: /avex_pdf.html
+      output: web
