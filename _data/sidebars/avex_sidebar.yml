@@ -32,18 +32,31 @@ entries:
     - title: Requirements
       url: /avex_requirements.html
       output: web, pdf
+    - title: PDF Download
+      url: /avex_pdf.html
+      output: web
+  - title: The Basics
+    output: web, pdf
+    folderitems:
     - title: Theme Options
       url: /avex_theme_options.html
-      output: web, pdf
-    - title: Sidebar Generator
-      url: /avex_sidebar_generator.html
-      output: web, pdf
-    - title: Mega Menu
-      url: /avex_mega_menu.html
       output: web, pdf
     - title: Visual Composer
       url: /avex_visual_composer.html
       output: web, pdf
-    - title: PDF Download
-      url: /avex_pdf.html
-      output: web
+    - title: Page Options
+      url: /avex_page_options.html
+      output: web, pdf
+    - title: Row & Row Options
+      url: /avex_row_options.html
+      output: web, pdf
+  - title: Additional Features
+    output: web, pdf
+    folderitems:
+      - title: Sidebar Generator
+        url: /avex_sidebar_generator.html
+        output: web, pdf
+      - title: Mega Menu
+        url: /avex_mega_menu.html
+        output: web, pdf
+
