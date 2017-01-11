@@ -53,6 +53,9 @@ entries:
     - title: Row & Row Options
       url: /avex_row_options.html
       output: web, pdf
+    - title: Update Theme
+      url: /avex_update_theme.html
+      output: web, pdf
   - title: Additional Features
     output: web, pdf
     folderitems:
