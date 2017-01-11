@@ -1,6 +1,6 @@
 ---
 title: Avex Theme Options
-keywords: documentation theme, jekyll, technical writers, help authoring tools, hat replacements
+keywords: avex documentation, avex, punica, punicatheme
 last_updated: November 21, 2016
 summary: "Theme Options – The Customizer"
 tags: [getting_started, installation]

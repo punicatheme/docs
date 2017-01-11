@@ -1,6 +1,6 @@
 ---
 title: About the theme author
-keywords: documentation theme, jekyll, technical writers, help authoring tools, hat replacements
+keywords: documentation, punica, punicatheme, about
 last_updated: November 21, 2016
 tags: [getting_started]
 sidebar: doc_sidebar

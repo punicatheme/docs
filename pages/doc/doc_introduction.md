@@ -1,5 +1,6 @@
 ---
 title: Introduction
+keywords: documentation, punica, punicatheme, introduction
 sidebar: doc_sidebar
 permalink: doc_introduction.html
 folder: doc

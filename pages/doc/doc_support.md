@@ -1,7 +1,7 @@
 ---
 title: Support
 tags: [getting_started, troubleshooting]
-keywords: questions, troubleshooting, contact, support
+keywords: questions, troubleshooting, contact, support, documentation, punica, punicatheme
 last_updated: November 21, 2016
 summary: "Contact us for any support issues."
 sidebar: doc_sidebar

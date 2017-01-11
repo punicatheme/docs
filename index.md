@@ -1,6 +1,6 @@
 ---
 title: Getting started
-keywords: sample homepage
+keywords: documentation, punica, punicatheme
 tags: [getting_started]
 sidebar: doc_sidebar
 permalink: index.html

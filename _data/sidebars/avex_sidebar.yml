@@ -4,7 +4,7 @@
 entries:
 - title: Sidebar
   product: Avex
-  version: 1.0
+  version: 1.0.9
   folders:
 
   - title:
@@ -31,6 +31,9 @@ entries:
       output: web, pdf
     - title: Requirements
       url: /avex_requirements.html
+      output: web, pdf
+    - title: Changelog
+      url: /avex_changelog.html
       output: web, pdf
     - title: PDF Download
       url: /avex_pdf.html

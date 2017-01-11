@@ -1,7 +1,7 @@
 ---
 title: Avex Row Options
 summary: "Row options."
-keywords: documentation theme, jekyll, technical writers, help authoring tools, hat replacements
+keywords: avex documentation, avex, punica, punicatheme
 last_updated: November 21, 2016
 tags: [installation]
 sidebar: avex_sidebar

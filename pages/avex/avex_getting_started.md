@@ -1,6 +1,6 @@
 ---
 title: Avex Getting started
-keywords: documentation theme, jekyll, technical writers, help authoring tools, hat replacements
+keywords: avex documentation, avex, punica, punicatheme
 last_updated: November 21, 2016
 summary: "Few words on start"
 tags: [getting_started]

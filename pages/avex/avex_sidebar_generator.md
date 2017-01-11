@@ -1,7 +1,7 @@
 ---
 title: Avex Sidebar Generator
 summary: "This feature generates as many sidebars as you need. Then allows you to place them on any page you wish."
-keywords: documentation theme, jekyll, technical writers, help authoring tools, hat replacements
+keywords: avex documentation, avex, punica, punicatheme
 last_updated: November 21, 2016
 tags: [installation]
 sidebar: avex_sidebar
