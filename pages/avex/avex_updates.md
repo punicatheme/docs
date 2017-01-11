@@ -30,10 +30,10 @@ The Envato Toolkit is a great plugin created by Envato so you can update any The
 ## Option 3: Manual Updates Via FTP/SFTP Override
 Of course you can always update by simply overriding all files via FTP or SFTP.
 
-Step 1: Download the “installable theme” from ThemeForest
-Step 2: Access your server via FTP or SFTP (if you aren’t sure how usually your webhost will have instructions somewhere on their site)
-Step 3: Browse to wp-content/themes/
-Step 4: Delete and override the "avex" folder files with the new ones downloaded in step 1.
+* Step 1: Download the “installable theme” from ThemeForest
+* Step 2: Access your server via FTP or SFTP (if you aren’t sure how usually your webhost will have instructions somewhere on their site)
+* Step 3: Browse to wp-content/themes/
+* Step 4: Delete and override the "avex" folder files with the new ones downloaded in step 1.
 
 ## Resources
 * [https://premium.wpmudev.org/blog/how-to-update-themeforest-themes-with-the-envato-wordpress-toolkit/](https://premium.wpmudev.org/blog/how-to-update-themeforest-themes-with-the-envato-wordpress-toolkit/){:target="_blank"}
