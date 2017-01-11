@@ -5,7 +5,7 @@ port: 4016
 output: pdf
 product: avex
 print_title: Avex Documentation
-print_subtitle: version 1.0
+print_subtitle: version 1.0.x
 output: pdf
 defaults:
   -
