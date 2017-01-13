@@ -1,16 +1,17 @@
 ---
 title: Avex Changelog
 keywords: avex documentation, avex, punica, punicatheme
-last_updated: January 11, 2017
+last_updated: January 13, 2017
 tags: [installation]
 sidebar: avex_sidebar
 permalink: avex_changelog.html
 folder: avex
 ---
 
-## 1.0.9 - 11/01/2017
+## 1.0.9 - 13/01/2017
 * Updated: customize colorscheme colors
 * Updated: new .pot file
+* Fixed: author bio check empty description context error
 
 ## 1.0.8 - 03/01/2017
 * Remove Modernizr
