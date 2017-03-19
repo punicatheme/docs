@@ -8,6 +8,9 @@ permalink: avex_changelog.html
 folder: avex
 ---
 
+## 1.0.10 - 19/03/2017
+* Updated: remove vc_set_as_theme() to keep vc design and custom css options
+
 ## 1.0.9 - 13/01/2017
 * Updated: customize colorscheme colors
 * Updated: new .pot file
