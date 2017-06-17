@@ -1,5 +1,5 @@
 ---
-title: alana Getting started
+title: Alana Getting started
 keywords: alana documentation, alana, punica, punicatheme
 last_updated: November 21, 2016
 summary: "Few words on start"
