@@ -14,5 +14,6 @@ Select one of the links below to find your product documentation:
 ## Themes
 
 * [Avex][avex_getting_started]
+* [Alana][alana_getting_started]
 
 {% include links.html %}
