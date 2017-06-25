@@ -13,6 +13,9 @@
 {% elsif page.sidebar == "avex_sidebar" %}
 {% assign sidebar = site.data.sidebars.avex_sidebar.entries %}
 
+{% elsif page.sidebar == "alana_sidebar" %}
+{% assign sidebar = site.data.sidebars.alana_sidebar.entries %}
+
 {% elsif page.sidebar == "mydoc_sidebar" %}
 {% assign sidebar = site.data.sidebars.mydoc_sidebar.entries %}
 
@@ -40,4 +43,8 @@ sidebar configuration for print files
 
 {% if site.product == "avex" %}
 {% assign sidebar_pdf = site.data.sidebars.avex_sidebar.entries %}
+{% endif %}
+
+{% if site.product == "alana" %}
+{% assign sidebar_pdf = site.data.sidebars.alana_sidebar.entries %}
 {% endif %}
