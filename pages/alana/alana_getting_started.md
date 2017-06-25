@@ -1,10 +1,10 @@
 ---
 title: Alana Getting started
 keywords: alana documentation, alana, punica, punicatheme
-last_updated: November 21, 2016
+last_updated: June 24, 2017
 summary: "Few words on start"
 tags: [getting_started]
-sidebar: avex_sidebar
+sidebar: alana_sidebar
 permalink: alana_getting_started.html
 folder: alana
 ---
