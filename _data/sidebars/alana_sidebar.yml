@@ -1,0 +1,68 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+
+entries:
+- title: Sidebar
+  product: Alana
+  version: 1.0.0
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage
+      output: pdf
+      type: frontmatter
+
+  - title: Overview
+    output: web, pdf
+    folderitems:
+    - title: Getting started
+      url: /alana_getting_started.html
+      output: web, pdf
+    - title: Installation
+      url: /alana_installation.html
+      output: web, pdf
+    - title: Requirements
+      url: /alana_requirements.html
+      output: web, pdf
+    - title: Changelog
+      url: /alana_changelog.html
+      output: web, pdf
+    - title: PDF Download
+      url: /alana_pdf.html
+      output: web
+  - title: The Basics
+    output: web, pdf
+    folderitems:
+    - title: Theme Options
+      url: /alana_theme_options.html
+      output: web, pdf
+    - title: Visual Composer
+      url: /alana_visual_composer.html
+      output: web, pdf
+    - title: Page Options
+      url: /alana_page_options.html
+      output: web, pdf
+    - title: Row & Row Options
+      url: /alana_row_options.html
+      output: web, pdf
+    - title: Update Theme
+      url: /alana_update_theme.html
+      output: web, pdf
+  - title: Additional Features
+    output: web, pdf
+    folderitems:
+      - title: Sidebar Generator
+        url: /alana_sidebar_generator.html
+        output: web, pdf
+      - title: Mega Menu
+        url: /alana_mega_menu.html
+        output: web, pdf
+

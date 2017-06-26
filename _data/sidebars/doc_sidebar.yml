@@ -48,3 +48,7 @@ entries:
     - title: Avex
       url: /avex_getting_started.html
       output: web
+
+    - title: Alana
+      url: /alana_getting_started.html
+      output: web
